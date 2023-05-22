@@ -1,6 +1,6 @@
 # Third Person Character Controller
 Sistem character controller dalam perspektif orang ketiga (Third Person)
-![Screenshot](thirdpersoncontroller.jpg)
+![Screenshot](gambar-title.jpg)
 ![Screenshot](showcase.gif)
 # Features
 - WASD Movement
@@ -8,7 +8,6 @@ Sistem character controller dalam perspektif orang ketiga (Third Person)
 - Walking (Hold Shift)
 - Linear Transition between animations
 - Lock/Unlock cursor
-![Screenshot](req3.jpg)
 # Installation Requirements
 1. Unity Engine 2021.3 LTS (minimum)
 2. Cinemachine 2.8.9 (minimum)
