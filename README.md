@@ -1,6 +1,5 @@
 # Third Person Character Controller
 Sistem character controller dalam perspektif orang ketiga (Third Person)
-![Screenshot](gambar-title.jpg)
 ![Screenshot](showcase.gif)
 # Features
 - WASD Movement
